@@ -17,3 +17,6 @@ Contact :
 instagram : @root.mehmet
 mail : mehmetd.php@gmail.com
 twitter : @saltanatbekcisi
+
+
+Geliştiriciler herhangi bir sorumluluk kabul etmez ve bu programın neden olduğu yanlış kullanım veya hasarlardan sorumlu değildir !
